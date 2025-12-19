@@ -1,4 +1,4 @@
-# PIXEL
+# The Official Community repository for the Pixely Discord Bot.
 
 A Discord bot built with **Node.js** and **discord.js v13** using a simple command handler + category-based command folders.
 
